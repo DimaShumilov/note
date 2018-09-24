@@ -22,7 +22,7 @@ To deploy project:
 <ol>
   <li>cd compose/</li>
   <li>docker-compose up --build</li>
-  <li>enjoy</li>
+  <li>enjoy the program</li>
 </ol>
 
 <h2> Restrictions <h2>
